@@ -18,12 +18,18 @@ EditorBuildSettings:
     path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level03.unity
     guid: 8e80dae27616da241995f2290dca03b7
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel.unity
-    guid: fb330cb26d3c85942ba945f782bbe1eb
-  - enabled: 1
     path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
-    guid: c0bb0428919073341ac26e4628b77194
+    guid: f21a9507fff894a4a909c756666be272
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 1.unity
-    guid: e2112e5898b24074d93cbe3b0b858693
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel1.unity
+    guid: 6744afb7617d8d64bad8f41bec9fc96c
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel2.unity
+    guid: 07999e4f64a8a0545b71f445ea8f8a22
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel3.unity
+    guid: 9c1461acb449ef346a923fd00594feb1
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel4.unity
+    guid: 08498105cbfff65459d7d3f8dd47e26b
   m_configObjects: {}
